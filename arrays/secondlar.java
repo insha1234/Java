@@ -34,3 +34,8 @@ public class secondlar {
     }
     
 }
+
+
+//Time Complexity: O(N), We do two linear traversals in our array = 2 * O(N) = O(N)
+
+// Space Complexity: O(1)
