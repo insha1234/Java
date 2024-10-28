@@ -23,3 +23,6 @@ public class missingNumberBA {
     }
     
 }
+
+// Time complexity: O(N)
+// Space complexity: O(1)
