@@ -1,3 +1,5 @@
+//using XOR operator to find the single element in the array.
+
 package arrays;
 
 public class occurenceBA {
@@ -21,3 +23,6 @@ public class occurenceBA {
     }
     
 }
+
+// Time complexity: O(N)
+// Space complexity: O(1) because we are not using any extra space. We are just XORing the elements of the array.

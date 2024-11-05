@@ -1,3 +1,5 @@
+//using hashmap
+
 package arrays;
 import java.util.*;
 
@@ -37,6 +39,9 @@ public class occurence {
 
     }
 }
+
+// Time complexity: O(N)
+// Space complexity: O(M) as we are using a map data structure. Here M = size of the map i.e. M = (N/2)+1.
 
 
     
